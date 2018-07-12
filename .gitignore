@@ -1,0 +1,4 @@
+sandbox
+__pycache__
+config.ini
+legacy/

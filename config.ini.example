@@ -1,0 +1,14 @@
+[PATH]
+HOME = /home/rurushu/repisas/sandbox/
+OUTPUT_DIR = /home/rurushu/repisas/sandbox/output/
+OUTPUT_DIR_BAK = /home/rurushu/repisas/sandbox/output_bak/
+ORDENADO_DIR = /home/rurushu/repisas/sandbox/ordenado/
+ORDENADO_DIR_BAK = /home/rurushu/repisas/sandbox/ordenado_bak/
+CALIFICADO_DIR = /home/rurushu/repisas/sandbox/calificado/
+CALIFICADO_DIR_BAK = /home/rurushu/repisas/sandbox/calificado_bak/
+LOG_DIR = /home/rurushu/repisas/sandbox/log/
+TEMPLATES_DIR = /home/rurushu/repisas/sandbox/templates/
+[LOG]
+LOG_FORMAT = [%%(asctime)s] [%%(levelname)s] - %%(message)s
+[ORDENAR]
+HEIGHT_PCT = 75
